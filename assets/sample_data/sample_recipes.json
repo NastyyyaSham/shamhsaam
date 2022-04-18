@@ -1,0 +1,147 @@
+
+{
+    "recipes": [
+        {
+            "id": "rec1",
+            "dishImage": "2-a3p3qqvnb4q.jpg",
+            "title": "Луори",
+            "duration": "Кот/3 года",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Meditarrian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec2",
+            "dishImage": "02-h3_ketf5i1e.jpg",
+            "title": "Армида",
+            "duration": "Кошка/4 года",
+            "source": "https://",
+            "information": [
+                "Course: Dessert",
+                "Price: Somewhat cheap",
+                "Cuisine: American",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec3",
+            "dishImage": "kotenok-trava-progulka.jpg",
+            "title": "Сема",
+            "duration": "котенок(м.)/5 мес.",
+            "source": "https://",
+            "information": [
+                "Course: Breakfast",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec4",
+            "dishImage": "post_5bec9c89bfc38.jpg",
+            "title": "Флафи",
+            "duration": "Кошка/3 года",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Expensive",
+                "Cuisine: Italian",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec5",
+            "dishImage": "1-persy003.jpg",
+            "title": "Лили",
+            "duration": "котенок(д)/4 мес.",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Thai",
+                "Skill Level: Beginner",
+                "Prep Time 5 minutes"
+            ]
+
+        },
+        {
+            "id": "rec6",
+            "dishImage": "MG_5282.jpg",
+            "title": "Марго",
+            "duration": "Кошка/1,6 мес.",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Medium",
+                "Cuisine: Thai",
+                "Skill Level: Amateur",
+                "Prep Time 10 minutes"
+            ]
+        },
+        {
+            "id": "rec7",
+            "dishImage": "20210714_143126_idaurova.jpg",
+            "title": "Матроскин",
+            "duration": "Кот/2 года",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: Vietnamese",
+                "Skill Level: Hard",
+                "Prep Time 20 minutes"
+            ]
+        },
+        {
+            "id": "rec8",
+            "dishImage": "kot-koshka-morda-portret-vzgliad-fon-kisa-belaia-lezhit-pol.jpg",
+            "title": "Бельчонок",
+            "duration": "Кот/2 года",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec9",
+            "dishImage": "20211204_153633_idaurova.jpg",
+            "title": "Гаврюша",
+            "duration": "Кот/2 года",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        },
+        {
+            "id": "rec10",
+            "dishImage": "20220112_160954_idaurova.jpg",
+            "title": "Тима",
+            "duration": "Котенок(м)/10 мес.",
+            "source": "https://",
+            "information": [
+                "Course: Main Course",
+                "Price: Cheap",
+                "Cuisine: American",
+                "Skill Level: Easy",
+                "Prep Time 5 minutes"
+            ]
+        }
+
+    ]
+}
